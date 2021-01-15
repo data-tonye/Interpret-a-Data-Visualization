@@ -1,22 +1,13 @@
 # Interpret a Data Visualization
-Project 1 of the Udacity Data Foundations Nanodegree (DFND)
 
 # Project Description
-A large part of working with data is being able to interpret data visualizations and explain your insights to others. To give you some practice with this, we’ve selected a few Tableau dashboards for you to explore. The links are below, under "Choose from these Dashboards." Choose one of these dashboards, whichever one interests you the most, and find three insights in the visualizations. For each insight, provide a static image that shares what you found. Write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. Altogether (including images), your report should be 1-2 pages. The Tableau link: https://www.afro.who.int/health-topics/malaria
+This project was aimed at understanding how to draw insights from dashboard. For this project, I used the African malaria dashboard provided by Tableau. The Tableau link: https://www.afro.who.int/health-topics/malaria
 
-# Project Specifications
-- Completeness
-- Correctness
+## Reason for Project
+I needed to understand how to read insights to help businesses solve critical problems to remain relevant. This was a start and with time will do more to uncover great insights.
 
-**Completeness**:
-Required Number of Insights:
-- Three insights are reported using one Dashboard.
-Insight explanations:
-- Each insight has an explanation describing how the insight was reached from the data.
-- For each insight, provide a screenshot that shows what you found in the dashboard.
+# Technologies used
+Tableau
 
-**Correctness**:
-Correct conclusions:
-- Student’s conclusions are correct based on the data.
-Correct Usage:
-- The dashboard was used appropriately to find the information
+**Findings**:
+African countries have a great number of malaria deaths generally. Kenya had a large number but with time these diseases reduced. The Africa's middle belt has more cases of malaria deaths compared with the north and south of Africa. In most cases, the trends show that with time, the number of deaths have reduced apart from some few countries.
